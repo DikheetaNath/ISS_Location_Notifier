@@ -1,5 +1,5 @@
 Hello Everyone!
-This is a progra which notifies you through email when the ISS is crossing above your given location 
+This is a program which notifies you through email when the ISS is crossing above your given location 
 and since it can be only visible at night time, it notifies you only if the ISS is crossing above you 
 after sunset.
 First by proving your location, it checks if ISS is near your location through the ISS API
