@@ -55,5 +55,5 @@ Before running the project, ensure you have the following installed:
 - Inspired by the enthusiasm of space watchers worldwide.
 
 ## Note
-- Fill all the placeholders (your mail, password).
-- default smtp is set for gmail account. Find the smtp for your email [here](https://sendgrid.com/en-us/blog/what-is-an-smtp-server).
+- Fill all the placeholders (your mail, password) for the code to work.
+- default smtp server is set for gmail account. Find the smtp server for your email [here](https://sendgrid.com/en-us/blog/what-is-an-smtp-server).
