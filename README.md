@@ -1,6 +1,6 @@
-![NightGirlGIF](https://github.com/DikheetaNath/ISS_Location_Notifier/assets/149823138/692bb0dc-8029-4832-bb76-3acf5979e09a)# ISS Notifier
+# ISS Notifier🛰️
 
-This project notifies you when the International Space Station (ISS) is overhead at your location during nighttime. The notification includes details about the ISS's visibility, allowing you to observe it from your location.🛰️🌌🔭🌌
+This project notifies you when the International Space Station (ISS) is overhead at your location during nighttime🌌. The notification includes details about the ISS's visibility, allowing you to observe it from your location.🔭🌌
 ![SkyGrayGIF](https://github.com/DikheetaNath/ISS_Location_Notifier/assets/149823138/fcda2323-8223-4ae6-9361-9c97243c928c)
 
 
@@ -11,6 +11,7 @@ This project notifies you when the International Space Station (ISS) is overhead
 [How It Works](#how-it-works)
 [API Reference](#api-reference)
 [Acknowledgements](#Acknowledgements)
+[Note](#note)
 
 
 ## Features
@@ -47,8 +48,12 @@ Before running the project, ensure you have the following installed:
   If the ISS is overhead during nighttime, it sends a notification via the configured mail.📩
 
 ## API Reference
-  [Open Notify API]: Provides the current location of the ISS.
+  [Open Notify API](http://api.open-notify.org/iss-now.json): Provides the current location of the ISS.
 
 ## Acknowledgements
 - Thanks to Open Notify for providing the ISS position API.
 - Inspired by the enthusiasm of space watchers worldwide.
+
+## Note
+- Fill all the placeholders (your mail, password).
+- default smtp is set for gmail account. Find the smtp for your email [here](https://sendgrid.com/en-us/blog/what-is-an-smtp-server).
