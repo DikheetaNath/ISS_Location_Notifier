@@ -1,6 +1,7 @@
-# ISS Notifier🛰️
+# ISS Notifier🛰️🔭
 
-This project notifies you when the International Space Station (ISS) is overhead at your location during nighttime🌌. The notification includes details about the ISS's visibility, allowing you to observe it from your location.🔭🌌
+This project notifies you when the International Space Station (ISS) is overhead at your location during nighttime🌌. The notification includes details about the ISS's visibility, allowing you to observe it from your location.
+
 ![SkyGrayGIF](https://github.com/DikheetaNath/ISS_Location_Notifier/assets/149823138/fcda2323-8223-4ae6-9361-9c97243c928c)
 
 
